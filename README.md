@@ -2,7 +2,7 @@
 in this project, an NFT collection is to be deployed on the goerli network, Map the collection to Polygon, and Transfer assets to mumbai network using Polygon Bridge.
 
 ## Table of Contents
-###Project Overview
+### Project Overview
 - Prerequisites
 - Installation
 - Usage
